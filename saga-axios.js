@@ -37,3 +37,4 @@ function* sagaApiExample (api, params) {
     }
     return error
   }
+}
